@@ -1,0 +1,15 @@
+  .reposts {
+    background-color: lime;
+    border-color: rgb(0, 211, 0);
+  }
+  .button-container1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 5px;
+  }
+  .text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    font-size:x-large;
+  }
